@@ -1,1 +1,2 @@
-# http-server-java
+# Simple HTTP SERVER on JAVA
+This project is just for educational purpose to try some concepts or code following the guide [https://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html#]
